@@ -15,3 +15,7 @@ source myenv/bin/active
 ```bash
 python3 -m venv myenv.
 ```
+4. Run the project:
+```bash
+ python3 drowsiness_detection.py
+```
