@@ -15,6 +15,3 @@ source myenv/bin/active
 ```bash
 python3 -m venv myenv.
 ```
-
-Active your environment: 'source myenv/bin/active'.
-Install requirements: 'python setup.py install'.
